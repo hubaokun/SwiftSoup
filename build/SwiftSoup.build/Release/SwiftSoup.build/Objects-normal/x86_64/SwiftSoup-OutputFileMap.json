@@ -1,0 +1,305 @@
+{
+  "" : {
+    "const-values" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup-master.swiftconstvalues",
+    "dependencies" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup-master.d",
+    "diagnostics" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup-master.dia",
+    "emit-module-dependencies" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup-master.swiftdeps"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/resource_bundle_accessor.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/resource_bundle_accessor.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/ArrayExt.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ArrayExt.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ArrayExt.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ArrayExt.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Attribute.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Attribute.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Attribute.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Attribute.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Attributes.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Attributes.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Attributes.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Attributes.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/BinarySearch.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/BinarySearch.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/BinarySearch.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/BinarySearch.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/BooleanAttribute.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/BooleanAttribute.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/BooleanAttribute.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/BooleanAttribute.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/CharacterExt.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CharacterExt.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CharacterExt.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CharacterExt.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/CharacterReader.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CharacterReader.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CharacterReader.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CharacterReader.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Cleaner.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Cleaner.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Cleaner.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Cleaner.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Collector.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Collector.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Collector.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Collector.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/CombiningEvaluator.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CombiningEvaluator.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CombiningEvaluator.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CombiningEvaluator.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Comment.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Comment.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Comment.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Comment.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Connection.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Connection.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Connection.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Connection.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/CssSelector.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CssSelector.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CssSelector.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/CssSelector.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/DataNode.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DataNode.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DataNode.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DataNode.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/DataUtil.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DataUtil.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DataUtil.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DataUtil.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Document.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Document.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Document.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Document.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/DocumentType.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DocumentType.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DocumentType.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/DocumentType.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Element.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Element.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Element.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Element.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Elements.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Elements.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Elements.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Elements.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Entities.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Entities.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Entities.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Entities.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Evaluator.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Evaluator.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Evaluator.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Evaluator.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Exception.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Exception.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Exception.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Exception.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/FormElement.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/FormElement.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/FormElement.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/FormElement.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/HtmlTreeBuilder.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HtmlTreeBuilder.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HtmlTreeBuilder.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HtmlTreeBuilder.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/HtmlTreeBuilderState.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HtmlTreeBuilderState.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HtmlTreeBuilderState.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HtmlTreeBuilderState.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/HttpStatusException.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HttpStatusException.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HttpStatusException.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/HttpStatusException.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Mutex.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Mutex.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Mutex.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Mutex.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Node.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Node.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Node.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Node.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/NodeTraversor.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/NodeTraversor.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/NodeTraversor.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/NodeTraversor.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/NodeVisitor.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/NodeVisitor.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/NodeVisitor.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/NodeVisitor.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/OrderedSet.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/OrderedSet.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/OrderedSet.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/OrderedSet.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/ParseError.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseError.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseError.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseError.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/ParseErrorList.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseErrorList.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseErrorList.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseErrorList.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Parser.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Parser.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Parser.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Parser.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/ParseSettings.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseSettings.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseSettings.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/ParseSettings.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Pattern.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Pattern.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Pattern.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Pattern.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/QueryParser.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/QueryParser.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/QueryParser.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/QueryParser.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/SerializationException.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SerializationException.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SerializationException.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SerializationException.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/SimpleDictionary.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SimpleDictionary.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SimpleDictionary.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SimpleDictionary.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/StreamReader.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StreamReader.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StreamReader.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StreamReader.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/String.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/String.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/String.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/String.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/StringBuilder.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StringBuilder.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StringBuilder.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StringBuilder.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/StringUtil.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StringUtil.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StringUtil.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StringUtil.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/StructuralEvaluator.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StructuralEvaluator.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StructuralEvaluator.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/StructuralEvaluator.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/SwiftSoup.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/SwiftSoup.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Tag.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Tag.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Tag.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Tag.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/TextNode.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TextNode.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TextNode.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TextNode.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Token.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Token.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Token.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Token.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Tokeniser.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Tokeniser.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Tokeniser.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Tokeniser.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/TokeniserState.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TokeniserState.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TokeniserState.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TokeniserState.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/TokenQueue.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TokenQueue.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TokenQueue.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TokenQueue.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/TreeBuilder.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TreeBuilder.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TreeBuilder.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/TreeBuilder.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/UnfairLock.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/UnfairLock.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/UnfairLock.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/UnfairLock.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/UnicodeScalar.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/UnicodeScalar.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/UnicodeScalar.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/UnicodeScalar.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Validate.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Validate.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Validate.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Validate.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/Whitelist.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Whitelist.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Whitelist.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/Whitelist.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/XmlDeclaration.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/XmlDeclaration.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/XmlDeclaration.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/XmlDeclaration.o"
+  },
+  "/Volumes/data/lws/GitHub/SwiftSoup/Sources/XmlTreeBuilder.swift" : {
+    "index-unit-output-path" : "/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/XmlTreeBuilder.o",
+    "llvm-bc" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/XmlTreeBuilder.bc",
+    "object" : "/Volumes/data/lws/GitHub/SwiftSoup/build/SwiftSoup.build/Release/SwiftSoup.build/Objects-normal/x86_64/XmlTreeBuilder.o"
+  }
+}
